@@ -160,22 +160,24 @@
 
 ### ¿Qué está haciendo actualmente para que eso suceda?
 
-## 63. Preguntas adicionales
+---
 
-## 64. Si un periódico quisiera escribir un artículo en cuanto a usted, ¿sobre qué escribiría?
+## Preguntas adicionales
 
-## 65. Si alguien le diera un poco de dinero y le dijera que tiene que regalarlos a alguien que NO sea de su familia inmediata, ¿qué haría con el dinero?
+### 1. Si un periódico quisiera escribir un artículo en cuanto a usted, ¿sobre qué escribiría?
 
-## 66. ¿Ha viajado a algún lugar fuera de su país natal?
+### 2. Si alguien le diera un poco de dinero y le dijera que tiene que regalarlos a alguien que NO sea de su familia inmediata, ¿qué haría con el dinero?
 
-### ¿Cuál fue el motivo del viaje o los viajes y qué eventos memorables ocurrieron en algunos de esos viajes?
+### 3. ¿Ha viajado a algún lugar fuera de su país natal?
 
-## 67. ¿Cuáles fueron algunas de las modas populares que experimentó durante su vida?
+#### ¿Cuál fue el motivo del viaje o los viajes y qué eventos memorables ocurrieron en algunos de esos viajes?
 
-## 68. ¿Qué hacía durante el verano?
+### 4. ¿Cuáles fueron algunas de las modas populares que experimentó durante su vida?
 
-## 69. ¿Cómo describiría su personalidad?
+### 5. ¿Qué hacía durante el verano?
 
-## 60. Describa su filosofía sobre el dinero
+### 6. ¿Cómo describiría su personalidad?
 
-## 61. ¿Alguna vez tuvo animales domésticos? Cuente algo sobre ellos
+### 7. Describa su filosofía sobre el dinero
+
+### 8. ¿Alguna vez tuvo animales domésticos? Cuente algo sobre ellos
