@@ -1,4 +1,6 @@
-# Biografia
+# 📝 Biografia
+
+> Version: 1.0.0
 
 ## 1. ¿Cuál es su nombre completo?
 
@@ -162,7 +164,7 @@
 
 ---
 
-## Preguntas adicionales
+## 📚 Preguntas adicionales
 
 ### 1. Si un periódico quisiera escribir un artículo en cuanto a usted, ¿sobre qué escribiría?
 
