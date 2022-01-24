@@ -20,4 +20,4 @@ Contributions are welcome.
 
 ## Pending
 
-- [ ] Translate maindocument to english, and other languages
+- [ ] Translate main document to english, and other languages
